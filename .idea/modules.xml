@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/jstorm/jstorm.iml" filepath="$PROJECT_DIR$/jstorm/jstorm.iml" />
       <module fileurl="file://$PROJECT_DIR$/learning-bigdata.iml" filepath="$PROJECT_DIR$/learning-bigdata.iml" />
+      <module fileurl="file://$PROJECT_DIR$/opentsdb/opentsdb.iml" filepath="$PROJECT_DIR$/opentsdb/opentsdb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/opentsdbtest/opentsdbtest.iml" filepath="$PROJECT_DIR$/opentsdbtest/opentsdbtest.iml" />
       <module fileurl="file://$PROJECT_DIR$/storm/storm.iml" filepath="$PROJECT_DIR$/storm/storm.iml" />
     </modules>
   </component>

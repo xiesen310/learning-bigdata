@@ -7,12 +7,16 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="jstorm" />
+        <module name="opentsdb" />
+        <module name="opentsdbtest" />
         <module name="storm" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="jstorm" target="1.5" />
       <module name="learning-bigdata" target="1.5" />
+      <module name="opentsdb" target="1.5" />
+      <module name="opentsdbtest" target="1.5" />
       <module name="storm" target="1.5" />
     </bytecodeTargetLevel>
   </component>
